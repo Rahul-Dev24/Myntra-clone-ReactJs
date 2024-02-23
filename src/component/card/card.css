@@ -1,0 +1,38 @@
+.card {
+  display: flex;
+  align-items: center;
+  height: 110%;
+  width: 250px;
+  flex-direction: column;
+  border-radius: 10px;
+  color: #000;
+}
+
+.card .top {
+  width: 240px;
+  height: 82%;
+}
+.card .top img {
+  width: 240px;
+  height: 100%;
+  object-fit: cover;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  object-position: center;
+}
+.card .bottom {
+  width: 254px;
+  height: 15%;
+  padding: 20px;
+}
+
+.card1 {
+  width: 200px;
+  height: 280px;
+}
+.card1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}

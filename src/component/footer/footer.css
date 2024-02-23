@@ -1,0 +1,11 @@
+.footer_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: gray;
+  height: 10vh;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 900;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}

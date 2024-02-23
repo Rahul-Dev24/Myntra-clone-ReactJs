@@ -1,0 +1,19 @@
+.scroll_conatiner {
+  width: 100vw;
+  height: 450px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  overflow: auto;
+  flex-direction: row;
+}
+
+.title {
+  margin: 50px 50px;
+  font-size: 40px;
+  font-weight: bold;
+  color: gray;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
