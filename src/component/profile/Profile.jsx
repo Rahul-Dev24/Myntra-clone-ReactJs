@@ -53,7 +53,8 @@ const Profile = () => {
               </a>
             </div>
             <div id="btn">
-              <button class="msg">Get More</button>
+              <a href="https://github.com/Rahul-Dev24/Myntra-clone-ReactJs.git">
+              <button class="msg">Get More</button></a>
               <button class="msg">Message</button>
             </div>
             <div id="l-c-s">
