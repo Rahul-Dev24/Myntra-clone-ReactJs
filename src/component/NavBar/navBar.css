@@ -38,7 +38,7 @@ ul {
 }
 .right div:first-child,
 input {
-  background-color: #eee6e6f5;
+  background-color: gray;
   padding: 5px 10px;
   border: none;
   height: 100%;
